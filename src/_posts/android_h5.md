@@ -8,9 +8,12 @@ tags:
 categories: [大前端]
 ---
 
-[[toc]]
 
 由于公司需求需要快速上线一版 app，试验一下用纯 h5 套在 app 壳里，用 jsbridge 的方式和原生 app 层进行交互的可行性
+
+<!-- more -->
+
+[[toc]]
 
 ## 产品需求
 
@@ -18,7 +21,6 @@ categories: [大前端]
 - 引入 jsbridge，实现与原生 app 层交互
 - 引入原生层扫一扫实现库，与 js 实现交互
 
-<!-- more -->
 
 ## 放入 webview
 

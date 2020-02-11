@@ -26,7 +26,7 @@ module.exports = {
       nickname: 'Hoikan',
 
       // 个人简介
-      description: 'Happy Coding<br/>Happy Life',
+      description: 'Do what u love <br/>and get better at it',
 
       // 电子邮箱
       email: 'hoikan.chen@gmail.com',
@@ -35,7 +35,7 @@ module.exports = {
       location: 'DongGuan, China',
 
       // 组织
-      organization: "Xi'an Jiao Tong University",
+      organization: "TuoTuo Inc",
 
       // 头像
       // 设置为外部链接
@@ -48,7 +48,7 @@ module.exports = {
         // Github 帐号和链接
         github: {
           account: 'meteorlxy',
-          link: 'https://github.com/meteorlxy'
+          link: 'https://github.com/HoikanChan'
         }
       }
     },

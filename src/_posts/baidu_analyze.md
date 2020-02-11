@@ -1,10 +1,10 @@
 ---
-title: 百度统计
-vssue-title: 百度统计
+title: 百度统计配置
+vssue-title: 百度统计配置
 date: 2019-09-02
 tags:
-  - 前端
-categories: [前端]
+  - 埋点
+categories: [埋点]
 ---
 
 [[toc]]
@@ -13,23 +13,23 @@ categories: [前端]
 
 [链接]: https://u.baidu.com/ucweb/?module=Reguser&controller=reg&action=index&appid=12&nexturl=https%3A%2F%2Ftongji.baidu.com%2Fweb%2Fwelcome%2Flogin%3FloginDialog%3D1#/register
 
-![img](.\wps1.jpg)
+![img](./illustrations/wps1.jpg)
 
 ## 登录百度统计
 
 [链接]: https://tongji.baidu.com/web/welcome/login?loginDialog=1&ts=1564024316&tk=f35a97c59bd941j2ggbec3M0caea1bd161e5j=5gNj47N666434b2b62
 
-![img](.\wps2.jpg)
+![img](./illustrations/wps2.jpg)
 
 点免费使用
 
-![img](.\wps3.jpg)
+![img](./illustrations/wps3.jpg)
 
 不同意不行
 
 ## 添加网站
 
-![img](.\wps4.jpg)
+![img](./illustrations/wps4.jpg)
 
 这里根据实际情况填写，填写完成后见下图获取代码，安装说明在该页面百度已列出，此处尽量不要选择一键安装，自己手动配置就好。
 
@@ -39,7 +39,7 @@ categories: [前端]
 
 注意：虽然百度统计里有过滤域名的功能，但实际使用中没有过滤掉，最好在执行百度统计代码之前，检查域名。自己写一个域名过滤规则，符合条件再执行百度统计的代码。否则统计出来会有测试环境以及本机的数据，很混乱。
 
-![img](.\wps5.jpg)
+![img](./illustrations/wps5.jpg)
 
 20 分钟以后，去
 

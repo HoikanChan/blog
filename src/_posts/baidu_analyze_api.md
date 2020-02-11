@@ -1,3 +1,12 @@
+---
+title: 百度统计
+vssue-title: 百度统计
+date: 2019-10-12
+tags:
+  - 埋点
+categories: [埋点]
+---
+
 因项目运营需求前端需要埋点，统计页面流量。本文指针对H5应用，，若是App可参考[百度Mota](https://link.juejin.im?target=http%3A%2F%2Fmota.baidu.com%2F)。
 
 ## 统计几个指标：
